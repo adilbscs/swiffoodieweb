@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "ResturentOderMenu";
+}
+
+
+<div class="box">
+    <div class="box-header">
+        <h3 class="box-title"> Order Menu</h3>
+    </div>
+    <!-- /.box-header -->
+    <div class="box-body">
+        <table id="example1" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>food type</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Trident</td>
+                    <td>  Namkeen  </td>
+                    <td>  Namkeen  </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <!-- /.box-body -->
+</div>
+<script src="~/Scripts/JQuery/JQuery3.3.1/jquery-3.3.1.js"></script>
+<script src="~/Scripts/JQuery/JQuery3.3.1/jquery-3.3.1.min.js"></script>
+<script>
+    $(function () {
+        $('#example1').DataTable()
+        $('#example2').DataTable({
+            'paging': true,
+            'lengthChange': false,
+            'searching': false,
+            'ordering': true,
+            'info': true,
+            'autoWidth': false
+        })
+    })
+</script>
+
+

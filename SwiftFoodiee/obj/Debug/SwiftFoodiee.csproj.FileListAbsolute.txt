@@ -1,0 +1,264 @@
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\SwiftFoodiee.dll.config
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\SwiftFoodiee.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\SwiftFoodiee.pdb
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csc.exe
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csc.exe.config
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csc.rsp
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csi.exe
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csi.exe.config
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csi.rsp
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.AppContext.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Console.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.Compression.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Claims.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.ValueTuple.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\vbc.exe
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\vbc.exe.config
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\vbc.rsp
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\Antlr3.Runtime.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\Newtonsoft.Json.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Helpers.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Mvc.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Optimization.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Razor.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.Razor.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\WebGrease.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Helpers.xml
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Mvc.xml
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Optimization.xml
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Razor.xml
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.xml
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.Razor.xml
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\Newtonsoft.Json.xml
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\Antlr3.Runtime.pdb
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.csproj.CopyComplete
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.dll
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.pdb
+C:\Users\Muhammad Awais Khan\source\repos\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.csprojAssemblyReference.cache
+E:\SwiftFoodiee\SwiftFoodiee\bin\SwiftFoodiee.dll.config
+E:\SwiftFoodiee\SwiftFoodiee\bin\SwiftFoodiee.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\SwiftFoodiee.pdb
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csc.exe
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csc.exe.config
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csc.rsp
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csi.exe
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csi.exe.config
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csi.rsp
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.Managed.Core.targets
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.AppContext.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Collections.Immutable.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Console.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.Compression.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.FileSystem.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.Pipes.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Reflection.Metadata.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.AccessControl.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Claims.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Principal.Windows.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.ValueTuple.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Xml.XPath.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\vbc.exe
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\vbc.exe.config
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\vbc.rsp
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\VBCSCompiler.exe
+E:\SwiftFoodiee\SwiftFoodiee\bin\roslyn\VBCSCompiler.exe.config
+E:\SwiftFoodiee\SwiftFoodiee\bin\Antlr3.Runtime.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.Web.Infrastructure.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\Newtonsoft.Json.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Diagnostics.DiagnosticSource.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Helpers.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Mvc.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Optimization.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Razor.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.Deployment.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.Razor.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\WebGrease.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Helpers.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Mvc.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Optimization.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Razor.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.Deployment.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.Razor.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\Newtonsoft.Json.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\Antlr3.Runtime.pdb
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Diagnostics.DiagnosticSource.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.csprojAssemblyReference.cache
+E:\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.csproj.CoreCompileInputs.cache
+E:\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.csproj.CopyComplete
+E:\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.dll
+E:\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.pdb
+E:\SwiftFoodiee\SwiftFoodiee\bin\EntityFramework.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\EntityFramework.SqlServer.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Net.Http.Formatting.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Http.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Http.WebHost.dll
+E:\SwiftFoodiee\SwiftFoodiee\bin\EntityFramework.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\EntityFramework.SqlServer.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Net.Http.Formatting.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Http.xml
+E:\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Http.WebHost.xml
+E:\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.Migrations.rider.resources
+E:\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.csproj.GenerateResource.cache
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\SwiftFoodiee.dll.config
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\SwiftFoodiee.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\SwiftFoodiee.pdb
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csc.exe
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csc.exe.config
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csc.rsp
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csi.exe
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csi.exe.config
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\csi.rsp
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.Managed.Core.targets
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.AppContext.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Collections.Immutable.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Console.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.Compression.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.FileSystem.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.IO.Pipes.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Reflection.Metadata.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.AccessControl.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Claims.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Security.Principal.Windows.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.ValueTuple.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Xml.XmlDocument.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Xml.XPath.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\vbc.exe
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\vbc.exe.config
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\vbc.rsp
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\VBCSCompiler.exe
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\roslyn\VBCSCompiler.exe.config
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\Antlr3.Runtime.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\EntityFramework.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\EntityFramework.SqlServer.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.Web.Infrastructure.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\Newtonsoft.Json.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Diagnostics.DiagnosticSource.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Net.Http.Formatting.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Helpers.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Http.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Http.WebHost.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Mvc.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Optimization.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Razor.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.Deployment.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.Razor.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\WebGrease.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\EntityFramework.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\EntityFramework.SqlServer.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Net.Http.Formatting.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Http.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Http.WebHost.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Helpers.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Mvc.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Optimization.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.Razor.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.Deployment.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Web.WebPages.Razor.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\Newtonsoft.Json.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\Antlr3.Runtime.pdb
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\System.Diagnostics.DiagnosticSource.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.csprojAssemblyReference.cache
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.Migrations.rider.resources
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.csproj.GenerateResource.cache
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.csproj.CoreCompileInputs.cache
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.csproj.CopyComplete
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.dll
+E:\nomi data\fyp  project\SwiftFoodiee\SwiftFoodiee\obj\Debug\SwiftFoodiee.pdb
